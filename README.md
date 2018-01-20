@@ -1,2 +1,2 @@
 # StudyWebScraping
-Collection of nodes studying web scraping with python
+Collection of notes studying web scraping with python
